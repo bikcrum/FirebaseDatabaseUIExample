@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84113843561",
+    "firebase_url": "https://patients-3afcc.firebaseio.com",
+    "project_id": "patients-3afcc",
+    "storage_bucket": "patients-3afcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84113843561:android:4a04d46be1f4324b",
+        "android_client_info": {
+          "package_name": "com.bikcrum.firebasedatabasewithauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84113843561-afi0srju0r04areno1ll0schidcgvnp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqd6_q0-W-aHfRnYUKqnIg1KIMfq9AG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84113843561-afi0srju0r04areno1ll0schidcgvnp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
